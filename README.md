@@ -1,4 +1,4 @@
-# sara_perl_project
+# TreeTagger_perl_project
 
 <https://cental.uclouvain.be/treetagger/>
 <https://www.ims.uni-stuttgart.de/en/research/resources/tools/treetagger/>
