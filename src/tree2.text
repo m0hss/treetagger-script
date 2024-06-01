@@ -1,0 +1,3460 @@
+
+A part-of-speech tag: ADJ
+  token: bon
+  lemma: bon
+A part-of-speech tag: NOM
+  token: chat
+  lemma: chat
+A part-of-speech tag: PUN
+  token: ,
+  lemma: ,
+A part-of-speech tag: ADJ
+  token: bon
+  lemma: bon
+A part-of-speech tag: NOM
+  token: rat
+  lemma: rat
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: PRP
+  token: �
+  lemma: �
+A part-of-speech tag: NOM
+  token: coeur
+  lemma: cœur
+A part-of-speech tag: ADJ
+  token: vaillant
+  lemma: vaillant
+A part-of-speech tag: PUN
+  token: ,
+  lemma: ,
+A part-of-speech tag: NOM
+  token: rien
+  lemma: rien
+A part-of-speech tag: PRP
+  token: d'
+  lemma: de
+A part-of-speech tag: NOM
+  token: impossible
+  lemma: impossible
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: PRP
+  token: �
+  lemma: �
+A part-of-speech tag: DET:ART
+  token: la
+  lemma: le
+A part-of-speech tag: ADJ
+  token: bonne
+  lemma: bon
+A part-of-speech tag: ADV
+  token: franquette
+  lemma: franquette
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: PRP
+  token: �
+  lemma: �
+A part-of-speech tag: DET:ART
+  token: la
+  lemma: le
+A part-of-speech tag: ADJ
+  token: d�rob�e
+  lemma: d�rob�
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: PRP
+  token: �
+  lemma: �
+A part-of-speech tag: DET:ART
+  token: la
+  lemma: le
+A part-of-speech tag: NOM
+  token: fortune
+  lemma: fortune
+A part-of-speech tag: PRP:det
+  token: du
+  lemma: du
+A part-of-speech tag: NOM
+  token: pot
+  lemma: pot
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: PRP
+  token: �
+  lemma: �
+A part-of-speech tag: DET:ART
+  token: la
+  lemma: le
+A part-of-speech tag: ADJ
+  token: l�g�re
+  lemma: l�ger
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: PRP
+  token: �
+  lemma: �
+A part-of-speech tag: DET:ART
+  token: la
+  lemma: le
+A part-of-speech tag: ADJ
+  token: petite
+  lemma: petit
+A part-of-speech tag: NOM
+  token: semaine
+  lemma: semaine
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: PRP
+  token: �
+  lemma: �
+A part-of-speech tag: PRO:REL
+  token: qui
+  lemma: qui
+A part-of-speech tag: ADV
+  token: mieux
+  lemma: mieux
+A part-of-speech tag: ADV
+  token: mieux
+  lemma: mieux
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: abattre
+  lemma: abattre
+A part-of-speech tag: DET:ART
+  token: le
+  lemma: le
+A part-of-speech tag: NOM
+  token: travail
+  lemma: travail
+A part-of-speech tag: PRP
+  token: �
+  lemma: �
+A part-of-speech tag: DET:ART
+  token: la
+  lemma: le
+A part-of-speech tag: NOM
+  token: hache
+  lemma: hache
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: abattre
+  lemma: abattre
+A part-of-speech tag: DET:POS
+  token: ses
+  lemma: son
+A part-of-speech tag: NOM
+  token: cartes
+  lemma: carte
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: abattre
+  lemma: abattre
+A part-of-speech tag: DET:POS
+  token: son
+  lemma: son
+A part-of-speech tag: NOM
+  token: jeu
+  lemma: jeu
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: aborder
+  lemma: aborder
+A part-of-speech tag: DET:ART
+  token: la
+  lemma: le
+A part-of-speech tag: NOM
+  token: question
+  lemma: question
+A part-of-speech tag: PRP
+  token: de
+  lemma: de
+A part-of-speech tag: NOM
+  token: front
+  lemma: front
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: aboyer
+  lemma: aboyer
+A part-of-speech tag: PRP
+  token: avec
+  lemma: avec
+A part-of-speech tag: DET:ART
+  token: les
+  lemma: le
+A part-of-speech tag: NOM
+  token: loups
+  lemma: loup
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: aboyer
+  lemma: aboyer
+A part-of-speech tag: PRP
+  token: apr�s
+  lemma: apr�s
+A part-of-speech tag: DET:ART
+  token: la
+  lemma: le
+A part-of-speech tag: NOM
+  token: lune
+  lemma: lune
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:pper
+  token: abreuv�
+  lemma: abreuver
+A part-of-speech tag: PRP
+  token: de
+  lemma: de
+A part-of-speech tag: NOM
+  token: paroles
+  lemma: parole
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: accoucher
+  lemma: accoucher
+A part-of-speech tag: PRP
+  token: d'
+  lemma: de
+A part-of-speech tag: DET:ART
+  token: une
+  lemma: un
+A part-of-speech tag: NOM
+  token: souris
+  lemma: souris
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: accorder
+  lemma: accorder
+A part-of-speech tag: DET:POS
+  token: ses
+  lemma: son
+A part-of-speech tag: NOM
+  token: violons
+  lemma: violon
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: accrocher
+  lemma: accrocher
+A part-of-speech tag: DET:ART
+  token: le
+  lemma: le
+A part-of-speech tag: NOM
+  token: lecteur
+  lemma: lecteur
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: accrocher
+  lemma: accrocher
+A part-of-speech tag: DET:POS
+  token: son
+  lemma: son
+A part-of-speech tag: NOM
+  token: wagon
+  lemma: wagon
+A part-of-speech tag: PRP
+  token: �
+  lemma: �
+A part-of-speech tag: DET:ART
+  token: une
+  lemma: un
+A part-of-speech tag: NOM
+  token: �toile
+  lemma: �toile
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: accro�tre
+  lemma: accro�tre
+A part-of-speech tag: DET:POS
+  token: son
+  lemma: son
+A part-of-speech tag: NOM
+  token: capital
+  lemma: capital
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: achever
+  lemma: achever
+A part-of-speech tag: PRP
+  token: en
+  lemma: en
+A part-of-speech tag: NOM
+  token: queue
+  lemma: queue
+A part-of-speech tag: PRP
+  token: de
+  lemma: de
+A part-of-speech tag: NOM
+  token: poisson
+  lemma: poisson
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: acheter
+  lemma: acheter
+A part-of-speech tag: NOM
+  token: chat
+  lemma: chat
+A part-of-speech tag: PRP
+  token: en
+  lemma: en
+A part-of-speech tag: NOM
+  token: poche
+  lemma: poche
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: aimer
+  lemma: aimer
+A part-of-speech tag: PRP
+  token: �
+  lemma: �
+A part-of-speech tag: DET:ART
+  token: la
+  lemma: le
+A part-of-speech tag: NOM
+  token: folie
+  lemma: folie
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: aimer
+  lemma: aimer
+A part-of-speech tag: PRP
+  token: �
+  lemma: �
+A part-of-speech tag: DET:ART
+  token: la
+  lemma: le
+A part-of-speech tag: ADJ
+  token: fran�aise
+  lemma: fran�ais
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: aller
+  lemma: aller
+A part-of-speech tag: PRP:det
+  token: au
+  lemma: au
+A part-of-speech tag: NOM
+  token: charbon
+  lemma: charbon
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: aller
+  lemma: aller
+A part-of-speech tag: PRP
+  token: de
+  lemma: de
+A part-of-speech tag: NOM
+  token: Charybde
+  lemma: charybde
+A part-of-speech tag: PRP
+  token: en
+  lemma: en
+A part-of-speech tag: NAM
+  token: Scylla
+  lemma: <unknown>
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: NOM
+  token: aller
+  lemma: aller
+A part-of-speech tag: PRP
+  token: de
+  lemma: de
+A part-of-speech tag: NOM
+  token: mal
+  lemma: mal
+A part-of-speech tag: PRP
+  token: en
+  lemma: en
+A part-of-speech tag: NOM
+  token: pis
+  lemma: pi|pis
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: aller
+  lemma: aller
+A part-of-speech tag: NOM
+  token: droit
+  lemma: droit
+A part-of-speech tag: PRP:det
+  token: au
+  lemma: au
+A part-of-speech tag: NOM
+  token: but
+  lemma: but
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: aller
+  lemma: aller
+A part-of-speech tag: DET:ART
+  token: les
+  lemma: le
+A part-of-speech tag: NUM
+  token: quatre
+  lemma: quatre
+A part-of-speech tag: NOM
+  token: fers
+  lemma: fer
+A part-of-speech tag: PRP
+  token: en
+  lemma: en
+A part-of-speech tag: DET:ART
+  token: l'
+  lemma: le
+A part-of-speech tag: NOM
+  token: air
+  lemma: air
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: aller
+  lemma: aller
+A part-of-speech tag: PRP:det
+  token: au
+  lemma: au
+A part-of-speech tag: NOM
+  token: turbin
+  lemma: turbin
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: aller
+  lemma: aller
+A part-of-speech tag: NOM
+  token: ventre
+  lemma: ventre
+A part-of-speech tag: PRP
+  token: �
+  lemma: �
+A part-of-speech tag: NOM
+  token: terre
+  lemma: terre
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: allumer
+  lemma: allumer
+A part-of-speech tag: DET:ART
+  token: un
+  lemma: un
+A part-of-speech tag: NOM
+  token: contre-feu
+  lemma: contre-feu
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: amener
+  lemma: amener
+A part-of-speech tag: PRP
+  token: de
+  lemma: de
+A part-of-speech tag: DET:ART
+  token: l'
+  lemma: le
+A part-of-speech tag: NOM
+  token: eau
+  lemma: eau
+A part-of-speech tag: PRP:det
+  token: au
+  lemma: au
+A part-of-speech tag: NOM
+  token: moulin
+  lemma: moulin
+A part-of-speech tag: PRP
+  token: de
+  lemma: de
+A part-of-speech tag: PRO:IND
+  token: quelqu'un
+  lemma: quelqu'un
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: amener
+  lemma: amener
+A part-of-speech tag: DET:ART
+  token: le
+  lemma: le
+A part-of-speech tag: NOM
+  token: loup
+  lemma: loup
+A part-of-speech tag: PRP
+  token: dans
+  lemma: dans
+A part-of-speech tag: DET:ART
+  token: la
+  lemma: le
+A part-of-speech tag: NOM
+  token: bergerie
+  lemma: bergerie
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: amorcer
+  lemma: amorcer
+A part-of-speech tag: DET:ART
+  token: la
+  lemma: le
+A part-of-speech tag: NOM
+  token: pompe
+  lemma: pompe
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: amuser
+  lemma: amuser
+A part-of-speech tag: DET:ART
+  token: la
+  lemma: le
+A part-of-speech tag: NOM
+  token: galerie
+  lemma: galerie
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: appeler
+  lemma: appeler
+A part-of-speech tag: DET:ART
+  token: un
+  lemma: un
+A part-of-speech tag: NOM
+  token: chat
+  lemma: chat
+A part-of-speech tag: DET:ART
+  token: un
+  lemma: un
+A part-of-speech tag: NOM
+  token: chat
+  lemma: chat
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: apprendre
+  lemma: apprendre
+A part-of-speech tag: PRP
+  token: par
+  lemma: par
+A part-of-speech tag: NOM
+  token: coeur
+  lemma: cœur
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: appuyer
+  lemma: appuyer
+A part-of-speech tag: ADV
+  token: l�
+  lemma: l�
+A part-of-speech tag: PRO:REL
+  token: o�
+  lemma: o�
+A part-of-speech tag: PRO:DEM
+  token: �a
+  lemma: cela
+A part-of-speech tag: NOM
+  token: fait
+  lemma: fait
+A part-of-speech tag: ADJ
+  token: mal
+  lemma: mal
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: appuyer
+  lemma: appuyer
+A part-of-speech tag: PRP
+  token: sur
+  lemma: sur
+A part-of-speech tag: DET:ART
+  token: le
+  lemma: le
+A part-of-speech tag: NOM
+  token: champignon
+  lemma: champignon
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: avoir
+  lemma: avoir
+A part-of-speech tag: ADV
+  token: assez
+  lemma: assez
+A part-of-speech tag: PRP
+  token: de
+  lemma: de
+A part-of-speech tag: NOM
+  token: pain
+  lemma: pain
+A part-of-speech tag: PRP
+  token: sur
+  lemma: sur
+A part-of-speech tag: DET:ART
+  token: la
+  lemma: le
+A part-of-speech tag: NOM
+  token: planche
+  lemma: planche
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: avoir
+  lemma: avoir
+A part-of-speech tag: NOM
+  token: barre
+  lemma: barre
+A part-of-speech tag: PRP
+  token: sur
+  lemma: sur
+A part-of-speech tag: PRO:IND
+  token: quelqu'un
+  lemma: quelqu'un
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: avoir
+  lemma: avoir
+A part-of-speech tag: ADJ
+  token: beau
+  lemma: beau
+A part-of-speech tag: NOM
+  token: jeu
+  lemma: jeu
+A part-of-speech tag: PRP
+  token: de
+  lemma: de
+A part-of-speech tag: VER:infi
+  token: faire
+  lemma: faire
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: avoir
+  lemma: avoir
+A part-of-speech tag: ADJ
+  token: bon
+  lemma: bon
+A part-of-speech tag: NOM
+  token: dos
+  lemma: dos
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: avoir
+  lemma: avoir
+A part-of-speech tag: ADJ
+  token: bonne
+  lemma: bon
+A part-of-speech tag: NOM
+  token: presse
+  lemma: presse
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: avoir
+  lemma: avoir
+A part-of-speech tag: NOM
+  token: carte
+  lemma: carte
+A part-of-speech tag: ADJ
+  token: blanche
+  lemma: blanc
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: avoir
+  lemma: avoir
+A part-of-speech tag: ADJ
+  token: chaud
+  lemma: chaud
+A part-of-speech tag: PRP:det
+  token: aux
+  lemma: au
+A part-of-speech tag: NOM
+  token: fesses
+  lemma: fesse
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: avoir
+  lemma: avoir
+A part-of-speech tag: PRP:det
+  token: du
+  lemma: du
+A part-of-speech tag: NOM
+  token: pain
+  lemma: pain
+A part-of-speech tag: PRP
+  token: sur
+  lemma: sur
+A part-of-speech tag: DET:ART
+  token: la
+  lemma: le
+A part-of-speech tag: NOM
+  token: planche
+  lemma: planche
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: avoir
+  lemma: avoir
+A part-of-speech tag: PRP:det
+  token: du
+  lemma: du
+A part-of-speech tag: NOM
+  token: pot
+  lemma: pot
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: avoir
+  lemma: avoir
+A part-of-speech tag: PRP:det
+  token: du
+  lemma: du
+A part-of-speech tag: NOM
+  token: toupet
+  lemma: toupet
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: avoir
+  lemma: avoir
+A part-of-speech tag: PRP
+  token: d'
+  lemma: de
+A part-of-speech tag: ADJ
+  token: autres
+  lemma: autre
+A part-of-speech tag: NOM
+  token: chats
+  lemma: chat
+A part-of-speech tag: PRP
+  token: �
+  lemma: �
+A part-of-speech tag: VER:infi
+  token: fouetter
+  lemma: fouetter
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: avoir
+  lemma: avoir
+A part-of-speech tag: DET:ART
+  token: la
+  lemma: le
+A part-of-speech tag: NOM
+  token: f�ve
+  lemma: f�ve
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: avoir
+  lemma: avoir
+A part-of-speech tag: DET:ART
+  token: la
+  lemma: le
+A part-of-speech tag: NOM
+  token: langue
+  lemma: langue
+A part-of-speech tag: ADV
+  token: bien
+  lemma: bien
+A part-of-speech tag: VER:pper
+  token: pendue
+  lemma: pendre
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: avoir
+  lemma: avoir
+A part-of-speech tag: DET:ART
+  token: la
+  lemma: le
+A part-of-speech tag: NOM
+  token: main
+  lemma: main
+A part-of-speech tag: ADJ
+  token: heureuse
+  lemma: heureux
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: avoir
+  lemma: avoir
+A part-of-speech tag: DET:ART
+  token: la
+  lemma: le
+A part-of-speech tag: NOM
+  token: t�te
+  lemma: t�te
+A part-of-speech tag: PRP
+  token: dans
+  lemma: dans
+A part-of-speech tag: DET:ART
+  token: le
+  lemma: le
+A part-of-speech tag: NOM
+  token: guidon
+  lemma: guidon
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: avoir
+  lemma: avoir
+A part-of-speech tag: DET:ART
+  token: la
+  lemma: le
+A part-of-speech tag: NOM
+  token: t�te
+  lemma: t�te
+A part-of-speech tag: PRP
+  token: sur
+  lemma: sur
+A part-of-speech tag: DET:ART
+  token: les
+  lemma: le
+A part-of-speech tag: NOM
+  token: �paules
+  lemma: �paule
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: avoir
+  lemma: avoir
+A part-of-speech tag: DET:ART
+  token: l'
+  lemma: le
+A part-of-speech tag: NOM
+  token: estomac
+  lemma: estomac
+A part-of-speech tag: PRP
+  token: dans
+  lemma: dans
+A part-of-speech tag: DET:ART
+  token: les
+  lemma: le
+A part-of-speech tag: NOM
+  token: talons
+  lemma: talon
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: avoir
+  lemma: avoir
+A part-of-speech tag: DET:ART
+  token: le
+  lemma: le
+A part-of-speech tag: NOM
+  token: bras
+  lemma: bras
+A part-of-speech tag: ADJ
+  token: long
+  lemma: long
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: avoir
+  lemma: avoir
+A part-of-speech tag: DET:ART
+  token: le
+  lemma: le
+A part-of-speech tag: NOM
+  token: cafard
+  lemma: cafard
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: avoir
+  lemma: avoir
+A part-of-speech tag: DET:ART
+  token: le
+  lemma: le
+A part-of-speech tag: NOM
+  token: coeur
+  lemma: cœur
+A part-of-speech tag: PRP
+  token: sur
+  lemma: sur
+A part-of-speech tag: DET:ART
+  token: la
+  lemma: le
+A part-of-speech tag: NOM
+  token: main
+  lemma: main
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: avoir
+  lemma: avoir
+A part-of-speech tag: DET:ART
+  token: le
+  lemma: le
+A part-of-speech tag: NOM
+  token: diable
+  lemma: diable
+A part-of-speech tag: PRP:det
+  token: au
+  lemma: au
+A part-of-speech tag: NOM
+  token: corps
+  lemma: corps
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: avoir
+  lemma: avoir
+A part-of-speech tag: DET:ART
+  token: le
+  lemma: le
+A part-of-speech tag: NOM
+  token: dos
+  lemma: dos
+A part-of-speech tag: PRP:det
+  token: au
+  lemma: au
+A part-of-speech tag: NOM
+  token: mur
+  lemma: mur
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: avoir
+  lemma: avoir
+A part-of-speech tag: DET:ART
+  token: le
+  lemma: le
+A part-of-speech tag: NOM
+  token: feu
+  lemma: feu
+A part-of-speech tag: ADJ
+  token: sacr�
+  lemma: sacr�
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: avoir
+  lemma: avoir
+A part-of-speech tag: DET:ART
+  token: le
+  lemma: le
+A part-of-speech tag: NOM
+  token: nez
+  lemma: nez
+A part-of-speech tag: ADJ
+  token: creux
+  lemma: creux
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: avoir
+  lemma: avoir
+A part-of-speech tag: DET:ART
+  token: le
+  lemma: le
+A part-of-speech tag: NOM
+  token: poil
+  lemma: poil
+A part-of-speech tag: ADJ
+  token: gris
+  lemma: gris
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: avoir
+  lemma: avoir
+A part-of-speech tag: DET:ART
+  token: le
+  lemma: le
+A part-of-speech tag: NOM
+  token: vent
+  lemma: vent
+A part-of-speech tag: PRP
+  token: en
+  lemma: en
+A part-of-speech tag: NOM
+  token: poupe
+  lemma: poupe
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: avoir
+  lemma: avoir
+A part-of-speech tag: DET:ART
+  token: les
+  lemma: le
+A part-of-speech tag: NOM
+  token: dents
+  lemma: dent
+A part-of-speech tag: ADJ
+  token: longues
+  lemma: longue
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: avoir
+  lemma: avoir
+A part-of-speech tag: DET:ART
+  token: les
+  lemma: le
+A part-of-speech tag: NOM
+  token: �paules
+  lemma: �paule
+A part-of-speech tag: ADJ
+  token: solides
+  lemma: solide
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: avoir
+  lemma: avoir
+A part-of-speech tag: DET:ART
+  token: l'
+  lemma: le
+A part-of-speech tag: NOM
+  token: heure
+  lemma: heure
+A part-of-speech tag: PRP
+  token: dans
+  lemma: dans
+A part-of-speech tag: DET:ART
+  token: le
+  lemma: le
+A part-of-speech tag: NOM
+  token: p�trin
+  lemma: p�trin
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: avoir
+  lemma: avoir
+A part-of-speech tag: DET:ART
+  token: l'
+  lemma: le
+A part-of-speech tag: NOM
+  token: oreille
+  lemma: oreille
+A part-of-speech tag: ADJ
+  token: fine
+  lemma: fin
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: avoir
+  lemma: avoir
+A part-of-speech tag: DET:ART
+  token: l'
+  lemma: le
+A part-of-speech tag: NOM
+  token: oreille
+  lemma: oreille
+A part-of-speech tag: PRO:REL
+  token: qui
+  lemma: qui
+A part-of-speech tag: VER:pres
+  token: tra�ne
+  lemma: tra�ner
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: avoir
+  lemma: avoir
+A part-of-speech tag: DET:ART
+  token: l'
+  lemma: le
+A part-of-speech tag: NOM
+  token: œil
+  lemma: œil
+A part-of-speech tag: PRP
+  token: �
+  lemma: �
+A part-of-speech tag: NOM
+  token: tout
+  lemma: tout
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: avoir
+  lemma: avoir
+A part-of-speech tag: DET:ART
+  token: l'
+  lemma: le
+A part-of-speech tag: NOM
+  token: œil
+  lemma: œil
+A part-of-speech tag: PRP:det
+  token: aux
+  lemma: au
+A part-of-speech tag: NOM
+  token: aguets
+  lemma: aguet
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: avoir
+  lemma: avoir
+A part-of-speech tag: DET:ART
+  token: l'
+  lemma: le
+A part-of-speech tag: NOM
+  token: œil
+  lemma: œil
+A part-of-speech tag: PRP
+  token: de
+  lemma: de
+A part-of-speech tag: NAM
+  token: Moscou
+  lemma: Moscou
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: avoir
+  lemma: avoir
+A part-of-speech tag: DET:ART
+  token: l'
+  lemma: le
+A part-of-speech tag: NOM
+  token: œil
+  lemma: œil
+A part-of-speech tag: PRP:det
+  token: du
+  lemma: du
+A part-of-speech tag: NOM
+  token: tigre
+  lemma: tigre
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: avoir
+  lemma: avoir
+A part-of-speech tag: DET:ART
+  token: l'
+  lemma: le
+A part-of-speech tag: NOM
+  token: œil
+  lemma: œil
+A part-of-speech tag: ADJ
+  token: humide
+  lemma: humide
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: avoir
+  lemma: avoir
+A part-of-speech tag: DET:ART
+  token: l'
+  lemma: le
+A part-of-speech tag: NOM
+  token: œil
+  lemma: œil
+A part-of-speech tag: ADV
+  token: partout
+  lemma: partout
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: avoir
+  lemma: avoir
+A part-of-speech tag: DET:ART
+  token: l'
+  lemma: le
+A part-of-speech tag: NOM
+  token: œil
+  lemma: œil
+A part-of-speech tag: PRO:REL
+  token: qui
+  lemma: qui
+A part-of-speech tag: VER:pres
+  token: frise
+  lemma: friser
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: avoir
+  lemma: avoir
+A part-of-speech tag: DET:ART
+  token: l'
+  lemma: le
+A part-of-speech tag: NOM
+  token: œil
+  lemma: œil
+A part-of-speech tag: PRO:REL
+  token: qui
+  lemma: qui
+A part-of-speech tag: VER:pres
+  token: p�tille
+  lemma: p�tiller
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: avoir
+  lemma: avoir
+A part-of-speech tag: DET:ART
+  token: l'
+  lemma: le
+A part-of-speech tag: NOM
+  token: œil
+  lemma: œil
+A part-of-speech tag: ADJ
+  token: vif
+  lemma: vif
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: avoir
+  lemma: avoir
+A part-of-speech tag: DET:ART
+  token: l'
+  lemma: le
+A part-of-speech tag: NOM
+  token: œil
+  lemma: œil
+A part-of-speech tag: PRP
+  token: sur
+  lemma: sur
+A part-of-speech tag: DET:ART
+  token: le
+  lemma: le
+A part-of-speech tag: NOM
+  token: beurre
+  lemma: beurre
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: avoir
+  lemma: avoir
+A part-of-speech tag: DET:ART
+  token: l'
+  lemma: le
+A part-of-speech tag: NOM
+  token: œil
+  lemma: œil
+A part-of-speech tag: PRP
+  token: sur
+  lemma: sur
+A part-of-speech tag: PRO:IND
+  token: quelqu'un
+  lemma: quelqu'un
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: avoir
+  lemma: avoir
+A part-of-speech tag: DET:ART
+  token: l'
+  lemma: le
+A part-of-speech tag: NOM
+  token: œil
+  lemma: œil
+A part-of-speech tag: PRP
+  token: sur
+  lemma: sur
+A part-of-speech tag: PRO:IND
+  token: quelque
+  lemma: quelque
+A part-of-speech tag: NOM
+  token: chose
+  lemma: chose
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: avoir
+  lemma: avoir
+A part-of-speech tag: DET:ART
+  token: l'
+  lemma: le
+A part-of-speech tag: NOM
+  token: œil
+  lemma: œil
+A part-of-speech tag: ADJ
+  token: torve
+  lemma: torve
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: avoir
+  lemma: avoir
+A part-of-speech tag: DET:ART
+  token: l'
+  lemma: le
+A part-of-speech tag: NOM
+  token: œil
+  lemma: œil
+A part-of-speech tag: ADJ
+  token: vif
+  lemma: vif
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: avoir
+  lemma: avoir
+A part-of-speech tag: DET:ART
+  token: l'
+  lemma: le
+A part-of-speech tag: NOM
+  token: oreille
+  lemma: oreille
+A part-of-speech tag: ADJ
+  token: fine
+  lemma: fin
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: avoir
+  lemma: avoir
+A part-of-speech tag: DET:ART
+  token: l'
+  lemma: le
+A part-of-speech tag: NOM
+  token: oreille
+  lemma: oreille
+A part-of-speech tag: PRO:REL
+  token: qui
+  lemma: qui
+A part-of-speech tag: VER:pres
+  token: tra�ne
+  lemma: tra�ner
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: avoir
+  lemma: avoir
+A part-of-speech tag: DET:ART
+  token: l'
+  lemma: le
+A part-of-speech tag: NOM
+  token: oreille
+  lemma: oreille
+A part-of-speech tag: PRO:REL
+  token: qui
+  lemma: qui
+A part-of-speech tag: VER:pres
+  token: siffle
+  lemma: siffler
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: avoir
+  lemma: avoir
+A part-of-speech tag: DET:ART
+  token: l'
+  lemma: le
+A part-of-speech tag: NOM
+  token: oreille
+  lemma: oreille
+A part-of-speech tag: PRP
+  token: sur
+  lemma: sur
+A part-of-speech tag: DET:ART
+  token: l'
+  lemma: le
+A part-of-speech tag: NOM
+  token: �paule
+  lemma: �paule
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: avoir
+  lemma: avoir
+A part-of-speech tag: VER:pper
+  token: perdu
+  lemma: perdre
+A part-of-speech tag: DET:ART
+  token: la
+  lemma: le
+A part-of-speech tag: NOM
+  token: boule
+  lemma: boule
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: avoir
+  lemma: avoir
+A part-of-speech tag: VER:pper
+  token: perdu
+  lemma: perdre
+A part-of-speech tag: DET:ART
+  token: le
+  lemma: le
+A part-of-speech tag: NOM
+  token: fil
+  lemma: fil
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: avoir
+  lemma: avoir
+A part-of-speech tag: VER:pper
+  token: perdu
+  lemma: perdre
+A part-of-speech tag: DET:ART
+  token: le
+  lemma: le
+A part-of-speech tag: NOM
+  token: nord
+  lemma: nord
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: avoir
+  lemma: avoir
+A part-of-speech tag: VER:pper
+  token: perdu
+  lemma: perdre
+A part-of-speech tag: DET:ART
+  token: les
+  lemma: le
+A part-of-speech tag: NOM
+  token: p�dales
+  lemma: p�dale
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: avoir
+  lemma: avoir
+A part-of-speech tag: VER:pper
+  token: perdu
+  lemma: perdre
+A part-of-speech tag: DET:ART
+  token: les
+  lemma: le
+A part-of-speech tag: NOM
+  token: p�dales
+  lemma: p�dale
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: avoir
+  lemma: avoir
+A part-of-speech tag: ADV
+  token: peu
+  lemma: peu
+A part-of-speech tag: PRP
+  token: de
+  lemma: de
+A part-of-speech tag: NOM
+  token: moyens
+  lemma: moyen
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: avoir
+  lemma: avoir
+A part-of-speech tag: NOM
+  token: pignon
+  lemma: pignon
+A part-of-speech tag: PRP
+  token: sur
+  lemma: sur
+A part-of-speech tag: NOM
+  token: rue
+  lemma: rue
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: avoir
+  lemma: avoir
+A part-of-speech tag: ADV
+  token: plus
+  lemma: plus
+A part-of-speech tag: PRP
+  token: d'
+  lemma: de
+A part-of-speech tag: DET:ART
+  token: un
+  lemma: un
+A part-of-speech tag: NOM
+  token: tour
+  lemma: tour
+A part-of-speech tag: PRP
+  token: dans
+  lemma: dans
+A part-of-speech tag: DET:POS
+  token: son
+  lemma: son
+A part-of-speech tag: NOM
+  token: sac
+  lemma: sac
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: avoir
+  lemma: avoir
+A part-of-speech tag: PRP
+  token: pour
+  lemma: pour
+A part-of-speech tag: DET:ART
+  token: le
+  lemma: le
+A part-of-speech tag: NOM
+  token: prix
+  lemma: prix
+A part-of-speech tag: PRP
+  token: de
+  lemma: de
+A part-of-speech tag: DET:POS
+  token: ses
+  lemma: son
+A part-of-speech tag: NOM
+  token: yeux
+  lemma: œil
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: avoir
+  lemma: avoir
+A part-of-speech tag: NOM
+  token: raison
+  lemma: raison
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: avoir
+  lemma: avoir
+A part-of-speech tag: NOM
+  token: recours
+  lemma: recours
+A part-of-speech tag: PRP
+  token: �
+  lemma: �
+A part-of-speech tag: DET:ART
+  token: un
+  lemma: un
+A part-of-speech tag: NOM
+  token: exp�dient
+  lemma: exp�dient
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: avoir
+  lemma: avoir
+A part-of-speech tag: DET:ART
+  token: un
+  lemma: un
+A part-of-speech tag: NOM
+  token: cœur
+  lemma: cœur
+A part-of-speech tag: PRP
+  token: d'
+  lemma: de
+A part-of-speech tag: NOM
+  token: artichaut
+  lemma: artichaut
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: avoir
+  lemma: avoir
+A part-of-speech tag: DET:ART
+  token: un
+  lemma: un
+A part-of-speech tag: NOM
+  token: cheveu
+  lemma: cheveu
+A part-of-speech tag: PRP
+  token: sur
+  lemma: sur
+A part-of-speech tag: DET:ART
+  token: la
+  lemma: le
+A part-of-speech tag: NOM
+  token: langue
+  lemma: langue
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: avoir
+  lemma: avoir
+A part-of-speech tag: DET:ART
+  token: un
+  lemma: un
+A part-of-speech tag: NOM
+  token: cœur
+  lemma: cœur
+A part-of-speech tag: PRP
+  token: d'
+  lemma: de
+A part-of-speech tag: NOM
+  token: or
+  lemma: or
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: avoir
+  lemma: avoir
+A part-of-speech tag: DET:ART
+  token: un
+  lemma: un
+A part-of-speech tag: NOM
+  token: coup
+  lemma: coup
+A part-of-speech tag: PRP
+  token: de
+  lemma: de
+A part-of-speech tag: NOM
+  token: pompe
+  lemma: pompe
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: avoir
+  lemma: avoir
+A part-of-speech tag: DET:ART
+  token: un
+  lemma: un
+A part-of-speech tag: NOM
+  token: coup
+  lemma: coup
+A part-of-speech tag: PRP
+  token: de
+  lemma: de
+A part-of-speech tag: NOM
+  token: sang
+  lemma: sang
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: avoir
+  lemma: avoir
+A part-of-speech tag: DET:ART
+  token: un
+  lemma: un
+A part-of-speech tag: NOM
+  token: coeur
+  lemma: cœur
+A part-of-speech tag: PRP
+  token: de
+  lemma: de
+A part-of-speech tag: NOM
+  token: pierre
+  lemma: pierre
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: avoir
+  lemma: avoir
+A part-of-speech tag: DET:ART
+  token: un
+  lemma: un
+A part-of-speech tag: NOM
+  token: grain
+  lemma: grain
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: avoir
+  lemma: avoir
+A part-of-speech tag: DET:ART
+  token: un
+  lemma: un
+A part-of-speech tag: ADJ
+  token: gros
+  lemma: gros
+A part-of-speech tag: NOM
+  token: cœur
+  lemma: cœur
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: avoir
+  lemma: avoir
+A part-of-speech tag: DET:ART
+  token: un
+  lemma: un
+A part-of-speech tag: NOM
+  token: poil
+  lemma: poil
+A part-of-speech tag: PRP
+  token: dans
+  lemma: dans
+A part-of-speech tag: DET:ART
+  token: la
+  lemma: le
+A part-of-speech tag: NOM
+  token: main
+  lemma: main
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: avoir
+  lemma: avoir
+A part-of-speech tag: DET:ART
+  token: un
+  lemma: un
+A part-of-speech tag: ADJ
+  token: sacr�
+  lemma: sacr�
+A part-of-speech tag: NOM
+  token: culot
+  lemma: culot
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: avoir
+  lemma: avoir
+A part-of-speech tag: DET:ART
+  token: un
+  lemma: un
+A part-of-speech tag: NOM
+  token: temp�rament
+  lemma: temp�rament
+A part-of-speech tag: PRP
+  token: de
+  lemma: de
+A part-of-speech tag: NOM
+  token: feu
+  lemma: feu
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: avoir
+  lemma: avoir
+A part-of-speech tag: DET:ART
+  token: un
+  lemma: un
+A part-of-speech tag: NOM
+  token: trou
+  lemma: trou
+A part-of-speech tag: PRP
+  token: de
+  lemma: de
+A part-of-speech tag: NOM
+  token: m�moire
+  lemma: m�moire
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: avoir
+  lemma: avoir
+A part-of-speech tag: DET:ART
+  token: un
+  lemma: un
+A part-of-speech tag: NOM
+  token: verre
+  lemma: verre
+A part-of-speech tag: PRP
+  token: dans
+  lemma: dans
+A part-of-speech tag: DET:ART
+  token: le
+  lemma: le
+A part-of-speech tag: NOM
+  token: nez
+  lemma: nez
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: avoir
+  lemma: avoir
+A part-of-speech tag: DET:ART
+  token: un
+  lemma: un
+A part-of-speech tag: NOM
+  token: œil
+  lemma: œil
+A part-of-speech tag: PRP
+  token: sur
+  lemma: sur
+A part-of-speech tag: PRO:IND
+  token: quelqu'un
+  lemma: quelqu'un
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: avoir
+  lemma: avoir
+A part-of-speech tag: DET:ART
+  token: une
+  lemma: un
+A part-of-speech tag: NOM
+  token: araign�e
+  lemma: araign�e
+A part-of-speech tag: PRP:det
+  token: au
+  lemma: au
+A part-of-speech tag: NOM
+  token: plafond
+  lemma: plafond
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: avoir
+  lemma: avoir
+A part-of-speech tag: DET:ART
+  token: une
+  lemma: un
+A part-of-speech tag: NOM
+  token: boule
+  lemma: boule
+A part-of-speech tag: PRP:det
+  token: au
+  lemma: au
+A part-of-speech tag: NOM
+  token: ventre
+  lemma: ventre
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: avoir
+  lemma: avoir
+A part-of-speech tag: DET:ART
+  token: une
+  lemma: un
+A part-of-speech tag: NOM
+  token: faim
+  lemma: faim
+A part-of-speech tag: PRP
+  token: de
+  lemma: de
+A part-of-speech tag: NOM
+  token: loup
+  lemma: loup
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: avoir
+  lemma: avoir
+A part-of-speech tag: DET:ART
+  token: une
+  lemma: un
+A part-of-speech tag: ADJ
+  token: grosse
+  lemma: gros
+A part-of-speech tag: NOM
+  token: t�te
+  lemma: t�te
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: avoir
+  lemma: avoir
+A part-of-speech tag: DET:ART
+  token: une
+  lemma: un
+A part-of-speech tag: NOM
+  token: histoire
+  lemma: histoire
+A part-of-speech tag: PRP
+  token: �
+  lemma: �
+A part-of-speech tag: VER:infi
+  token: dormir
+  lemma: dormir
+A part-of-speech tag: ADV
+  token: debout
+  lemma: debout
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: avoir
+  lemma: avoir
+A part-of-speech tag: DET:ART
+  token: une
+  lemma: un
+A part-of-speech tag: NOM
+  token: oreille
+  lemma: oreille
+A part-of-speech tag: ADJ
+  token: attentive
+  lemma: attentif
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: avoir
+  lemma: avoir
+A part-of-speech tag: DET:ART
+  token: une
+  lemma: un
+A part-of-speech tag: NOM
+  token: peur
+  lemma: peur
+A part-of-speech tag: ADJ
+  token: bleue
+  lemma: bleu
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: avoir
+  lemma: avoir
+A part-of-speech tag: DET:ART
+  token: une
+  lemma: un
+A part-of-speech tag: NOM
+  token: poigne
+  lemma: poigne
+A part-of-speech tag: PRP
+  token: de
+  lemma: de
+A part-of-speech tag: NOM
+  token: fer
+  lemma: fer
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: avoir
+  lemma: avoir
+A part-of-speech tag: DET:ART
+  token: une
+  lemma: un
+A part-of-speech tag: NOM
+  token: poule
+  lemma: poule
+A part-of-speech tag: PRP:det
+  token: aux
+  lemma: au
+A part-of-speech tag: NOM
+  token: œufs
+  lemma: œuf
+A part-of-speech tag: PRP
+  token: d'
+  lemma: de
+A part-of-speech tag: NOM
+  token: or
+  lemma: or
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: avoir
+  lemma: avoir
+A part-of-speech tag: DET:ART
+  token: une
+  lemma: un
+A part-of-speech tag: ADJ
+  token: sacr�e
+  lemma: sacr�
+A part-of-speech tag: NOM
+  token: paire
+  lemma: paire
+A part-of-speech tag: PRP
+  token: de
+  lemma: de
+A part-of-speech tag: NOM
+  token: gants
+  lemma: gant
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: avoir
+  lemma: avoir
+A part-of-speech tag: DET:ART
+  token: une
+  lemma: un
+A part-of-speech tag: NOM
+  token: vie
+  lemma: vie
+A part-of-speech tag: PRP
+  token: de
+  lemma: de
+A part-of-speech tag: NOM
+  token: chien
+  lemma: chien
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: balayer
+  lemma: balayer|balayer
+A part-of-speech tag: PRP
+  token: devant
+  lemma: devant
+A part-of-speech tag: DET:POS
+  token: sa
+  lemma: son
+A part-of-speech tag: NOM
+  token: porte
+  lemma: porte
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: baiser
+  lemma: baiser
+A part-of-speech tag: DET:ART
+  token: la
+  lemma: le
+A part-of-speech tag: NOM
+  token: main
+  lemma: main
+A part-of-speech tag: PRP
+  token: �
+  lemma: �
+A part-of-speech tag: PRO:IND
+  token: quelqu'un
+  lemma: quelqu'un
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: battre
+  lemma: battre
+A part-of-speech tag: DET:ART
+  token: le
+  lemma: le
+A part-of-speech tag: NOM
+  token: fer
+  lemma: fer
+A part-of-speech tag: PRP
+  token: pendant
+  lemma: pendant
+A part-of-speech tag: PRO:REL
+  token: qu'
+  lemma: que
+A part-of-speech tag: PRO:PER
+  token: il
+  lemma: il
+A part-of-speech tag: VER:pres
+  token: est
+  lemma: �tre
+A part-of-speech tag: ADJ
+  token: chaud
+  lemma: chaud
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: battre
+  lemma: battre
+A part-of-speech tag: DET:ART
+  token: la
+  lemma: le
+A part-of-speech tag: NOM
+  token: campagne
+  lemma: campagne
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: battre
+  lemma: battre
+A part-of-speech tag: DET:ART
+  token: le
+  lemma: le
+A part-of-speech tag: NOM
+  token: pav�
+  lemma: pav�
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: battre
+  lemma: battre
+A part-of-speech tag: DET:ART
+  token: le
+  lemma: le
+A part-of-speech tag: NOM
+  token: rappel
+  lemma: rappel
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: battre
+  lemma: battre
+A part-of-speech tag: DET:ART
+  token: le
+  lemma: le
+A part-of-speech tag: NOM
+  token: record
+  lemma: record
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: battre
+  lemma: battre
+A part-of-speech tag: DET:ART
+  token: le
+  lemma: le
+A part-of-speech tag: NOM
+  token: fer
+  lemma: fer
+A part-of-speech tag: ADV
+  token: tant
+  lemma: tant
+A part-of-speech tag: KON
+  token: qu'
+  lemma: que
+A part-of-speech tag: PRO:PER
+  token: il
+  lemma: il
+A part-of-speech tag: VER:pres
+  token: est
+  lemma: �tre
+A part-of-speech tag: ADJ
+  token: chaud
+  lemma: chaud
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: battre
+  lemma: battre
+A part-of-speech tag: NOM
+  token: monnaie
+  lemma: monnaie
+A part-of-speech tag: PRP
+  token: de
+  lemma: de
+A part-of-speech tag: PRO:IND
+  token: quelque
+  lemma: quelque
+A part-of-speech tag: NOM
+  token: chose
+  lemma: chose
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: battre
+  lemma: battre
+A part-of-speech tag: NOM
+  token: pavillon
+  lemma: pavillon
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: battre
+  lemma: battre
+A part-of-speech tag: DET:POS
+  token: sa
+  lemma: son
+A part-of-speech tag: NOM
+  token: coulpe
+  lemma: coulpe
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: battre
+  lemma: battre
+A part-of-speech tag: DET:POS
+  token: son
+  lemma: son
+A part-of-speech tag: ADJ
+  token: plein
+  lemma: plein
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: battre
+  lemma: battre
+A part-of-speech tag: DET:POS
+  token: son
+  lemma: son
+A part-of-speech tag: ADJ
+  token: plein
+  lemma: plein
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: battre
+  lemma: battre
+A part-of-speech tag: DET:POS
+  token: son
+  lemma: son
+A part-of-speech tag: ADJ
+  token: plein
+  lemma: plein
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: battre
+  lemma: battre
+A part-of-speech tag: DET:POS
+  token: son
+  lemma: son
+A part-of-speech tag: ADJ
+  token: plein
+  lemma: plein
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: battre
+  lemma: battre
+A part-of-speech tag: DET:POS
+  token: son
+  lemma: son
+A part-of-speech tag: ADJ
+  token: plein
+  lemma: plein
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: battre
+  lemma: battre
+A part-of-speech tag: DET:POS
+  token: son
+  lemma: son
+A part-of-speech tag: ADJ
+  token: plein
+  lemma: plein
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: battre
+  lemma: battre
+A part-of-speech tag: DET:POS
+  token: son
+  lemma: son
+A part-of-speech tag: ADJ
+  token: plein
+  lemma: plein
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: battre
+  lemma: battre
+A part-of-speech tag: DET:POS
+  token: son
+  lemma: son
+A part-of-speech tag: ADJ
+  token: plein
+  lemma: plein
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: battre
+  lemma: battre
+A part-of-speech tag: DET:POS
+  token: son
+  lemma: son
+A part-of-speech tag: ADJ
+  token: plein
+  lemma: plein
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: battre
+  lemma: battre
+A part-of-speech tag: DET:POS
+  token: son
+  lemma: son
+A part-of-speech tag: ADJ
+  token: plein
+  lemma: plein
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: battre
+  lemma: battre
+A part-of-speech tag: DET:POS
+  token: son
+  lemma: son
+A part-of-speech tag: ADJ
+  token: plein
+  lemma: plein
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: battre
+  lemma: battre
+A part-of-speech tag: DET:POS
+  token: son
+  lemma: son
+A part-of-speech tag: ADJ
+  token: plein
+  lemma: plein
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: battre
+  lemma: battre
+A part-of-speech tag: DET:POS
+  token: son
+  lemma: son
+A part-of-speech tag: ADJ
+  token: plein
+  lemma: plein
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: battre
+  lemma: battre
+A part-of-speech tag: DET:POS
+  token: son
+  lemma: son
+A part-of-speech tag: ADJ
+  token: plein
+  lemma: plein
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: battre
+  lemma: battre
+A part-of-speech tag: DET:POS
+  token: son
+  lemma: son
+A part-of-speech tag: ADJ
+  token: plein
+  lemma: plein
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: battre
+  lemma: battre
+A part-of-speech tag: DET:POS
+  token: son
+  lemma: son
+A part-of-speech tag: ADJ
+  token: plein
+  lemma: plein
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: battre
+  lemma: battre
+A part-of-speech tag: DET:POS
+  token: son
+  lemma: son
+A part-of-speech tag: ADJ
+  token: plein
+  lemma: plein
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: battre
+  lemma: battre
+A part-of-speech tag: DET:POS
+  token: son
+  lemma: son
+A part-of-speech tag: ADJ
+  token: plein
+  lemma: plein
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: battre
+  lemma: battre
+A part-of-speech tag: DET:POS
+  token: son
+  lemma: son
+A part-of-speech tag: ADJ
+  token: plein
+  lemma: plein
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: battre
+  lemma: battre
+A part-of-speech tag: DET:POS
+  token: son
+  lemma: son
+A part-of-speech tag: ADJ
+  token: plein
+  lemma: plein
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: battre
+  lemma: battre
+A part-of-speech tag: DET:POS
+  token: son
+  lemma: son
+A part-of-speech tag: ADJ
+  token: plein
+  lemma: plein
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: battre
+  lemma: battre
+A part-of-speech tag: DET:POS
+  token: son
+  lemma: son
+A part-of-speech tag: ADJ
+  token: plein
+  lemma: plein
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: battre
+  lemma: battre
+A part-of-speech tag: DET:POS
+  token: son
+  lemma: son
+A part-of-speech tag: ADJ
+  token: plein
+  lemma: plein
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: battre
+  lemma: battre
+A part-of-speech tag: DET:POS
+  token: son
+  lemma: son
+A part-of-speech tag: ADJ
+  token: plein
+  lemma: plein
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: battre
+  lemma: battre
+A part-of-speech tag: DET:POS
+  token: son
+  lemma: son
+A part-of-speech tag: ADJ
+  token: plein
+  lemma: plein
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: battre
+  lemma: battre
+A part-of-speech tag: DET:POS
+  token: son
+  lemma: son
+A part-of-speech tag: ADJ
+  token: plein
+  lemma: plein
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: battre
+  lemma: battre
+A part-of-speech tag: DET:POS
+  token: son
+  lemma: son
+A part-of-speech tag: ADJ
+  token: plein
+  lemma: plein
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: battre
+  lemma: battre
+A part-of-speech tag: DET:POS
+  token: son
+  lemma: son
+A part-of-speech tag: ADJ
+  token: plein
+  lemma: plein
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: battre
+  lemma: battre
+A part-of-speech tag: DET:POS
+  token: son
+  lemma: son
+A part-of-speech tag: ADJ
+  token: plein
+  lemma: plein
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: battre
+  lemma: battre
+A part-of-speech tag: DET:POS
+  token: son
+  lemma: son
+A part-of-speech tag: ADJ
+  token: plein
+  lemma: plein
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: battre
+  lemma: battre
+A part-of-speech tag: DET:POS
+  token: son
+  lemma: son
+A part-of-speech tag: ADJ
+  token: plein
+  lemma: plein
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: battre
+  lemma: battre
+A part-of-speech tag: DET:POS
+  token: son
+  lemma: son
+A part-of-speech tag: ADJ
+  token: plein
+  lemma: plein
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: battre
+  lemma: battre
+A part-of-speech tag: DET:POS
+  token: son
+  lemma: son
+A part-of-speech tag: ADJ
+  token: plein
+  lemma: plein
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: battre
+  lemma: battre
+A part-of-speech tag: DET:POS
+  token: son
+  lemma: son
+A part-of-speech tag: ADJ
+  token: plein
+  lemma: plein
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: battre
+  lemma: battre
+A part-of-speech tag: DET:POS
+  token: son
+  lemma: son
+A part-of-speech tag: ADJ
+  token: plein
+  lemma: plein
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: battre
+  lemma: battre
+A part-of-speech tag: DET:POS
+  token: son
+  lemma: son
+A part-of-speech tag: ADJ
+  token: plein
+  lemma: plein
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: battre
+  lemma: battre
+A part-of-speech tag: DET:POS
+  token: son
+  lemma: son
+A part-of-speech tag: ADJ
+  token: plein
+  lemma: plein
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: battre
+  lemma: battre
+A part-of-speech tag: DET:POS
+  token: son
+  lemma: son
+A part-of-speech tag: ADJ
+  token: plein
+  lemma: plein
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: battre
+  lemma: battre
+A part-of-speech tag: DET:POS
+  token: son
+  lemma: son
+A part-of-speech tag: ADJ
+  token: plein
+  lemma: plein
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: battre
+  lemma: battre
+A part-of-speech tag: DET:POS
+  token: son
+  lemma: son
+A part-of-speech tag: ADJ
+  token: plein
+  lemma: plein
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: battre
+  lemma: battre
+A part-of-speech tag: DET:POS
+  token: son
+  lemma: son
+A part-of-speech tag: ADJ
+  token: plein
+  lemma: plein
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: battre
+  lemma: battre
+A part-of-speech tag: DET:POS
+  token: son
+  lemma: son
+A part-of-speech tag: ADJ
+  token: plein
+  lemma: plein
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: battre
+  lemma: battre
+A part-of-speech tag: DET:POS
+  token: son
+  lemma: son
+A part-of-speech tag: ADJ
+  token: plein
+  lemma: plein
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: battre
+  lemma: battre
+A part-of-speech tag: DET:POS
+  token: son
+  lemma: son
+A part-of-speech tag: ADJ
+  token: plein
+  lemma: plein
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: battre
+  lemma: battre
+A part-of-speech tag: DET:POS
+  token: son
+  lemma: son
+A part-of-speech tag: ADJ
+  token: plein
+  lemma: plein
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: battre
+  lemma: battre
+A part-of-speech tag: DET:POS
+  token: son
+  lemma: son
+A part-of-speech tag: ADJ
+  token: plein
+  lemma: plein
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: battre
+  lemma: battre
+A part-of-speech tag: DET:POS
+  token: son
+  lemma: son
+A part-of-speech tag: ADJ
+  token: plein
+  lemma: plein
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: battre
+  lemma: battre
+A part-of-speech tag: DET:POS
+  token: son
+  lemma: son
+A part-of-speech tag: ADJ
+  token: plein
+  lemma: plein
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: battre
+  lemma: battre
+A part-of-speech tag: DET:POS
+  token: son
+  lemma: son
+A part-of-speech tag: ADJ
+  token: plein
+  lemma: plein
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: battre
+  lemma: battre
+A part-of-speech tag: DET:POS
+  token: son
+  lemma: son
+A part-of-speech tag: ADJ
+  token: plein
+  lemma: plein
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: battre
+  lemma: battre
+A part-of-speech tag: DET:POS
+  token: son
+  lemma: son
+A part-of-speech tag: ADJ
+  token: plein
+  lemma: plein
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: battre
+  lemma: battre
+A part-of-speech tag: DET:POS
+  token: son
+  lemma: son
+A part-of-speech tag: ADJ
+  token: plein
+  lemma: plein
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: battre
+  lemma: battre
+A part-of-speech tag: DET:POS
+  token: son
+  lemma: son
+A part-of-speech tag: ADJ
+  token: plein
+  lemma: plein
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: battre
+  lemma: battre
+A part-of-speech tag: DET:POS
+  token: son
+  lemma: son
+A part-of-speech tag: ADJ
+  token: plein
+  lemma: plein
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: battre
+  lemma: battre
+A part-of-speech tag: DET:POS
+  token: son
+  lemma: son
+A part-of-speech tag: ADJ
+  token: plein
+  lemma: plein
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: battre
+  lemma: battre
+A part-of-speech tag: DET:POS
+  token: son
+  lemma: son
+A part-of-speech tag: ADJ
+  token: plein
+  lemma: plein
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: battre
+  lemma: battre
+A part-of-speech tag: DET:POS
+  token: son
+  lemma: son
+A part-of-speech tag: ADJ
+  token: plein
+  lemma: plein
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: battre
+  lemma: battre
+A part-of-speech tag: DET:POS
+  token: son
+  lemma: son
+A part-of-speech tag: ADJ
+  token: plein
+  lemma: plein
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: battre
+  lemma: battre
+A part-of-speech tag: DET:POS
+  token: son
+  lemma: son
+A part-of-speech tag: ADJ
+  token: plein
+  lemma: plein
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: battre
+  lemma: battre
+A part-of-speech tag: DET:POS
+  token: son
+  lemma: son
+A part-of-speech tag: ADJ
+  token: plein
+  lemma: plein
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: battre
+  lemma: battre
+A part-of-speech tag: DET:POS
+  token: son
+  lemma: son
+A part-of-speech tag: ADJ
+  token: plein
+  lemma: plein
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: battre
+  lemma: battre
+A part-of-speech tag: DET:POS
+  token: son
+  lemma: son
+A part-of-speech tag: ADJ
+  token: plein
+  lemma: plein
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: battre
+  lemma: battre
+A part-of-speech tag: DET:POS
+  token: son
+  lemma: son
+A part-of-speech tag: ADJ
+  token: plein
+  lemma: plein
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: battre
+  lemma: battre
+A part-of-speech tag: DET:POS
+  token: son
+  lemma: son
+A part-of-speech tag: ADJ
+  token: plein
+  lemma: plein
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: battre
+  lemma: battre
+A part-of-speech tag: DET:POS
+  token: son
+  lemma: son
+A part-of-speech tag: ADJ
+  token: plein
+  lemma: plein
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: battre
+  lemma: battre
+A part-of-speech tag: DET:POS
+  token: son
+  lemma: son
+A part-of-speech tag: ADJ
+  token: plein
+  lemma: plein
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: battre
+  lemma: battre
+A part-of-speech tag: DET:POS
+  token: son
+  lemma: son
+A part-of-speech tag: ADJ
+  token: plein
+  lemma: plein
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: battre
+  lemma: battre
+A part-of-speech tag: DET:POS
+  token: son
+  lemma: son
+A part-of-speech tag: ADJ
+  token: plein
+  lemma: plein
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: battre
+  lemma: battre
+A part-of-speech tag: DET:POS
+  token: son
+  lemma: son
+A part-of-speech tag: ADJ
+  token: plein
+  lemma: plein
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: battre
+  lemma: battre
+A part-of-speech tag: DET:POS
+  token: son
+  lemma: son
+A part-of-speech tag: ADJ
+  token: plein
+  lemma: plein
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: battre
+  lemma: battre
+A part-of-speech tag: DET:POS
+  token: son
+  lemma: son
+A part-of-speech tag: ADJ
+  token: plein
+  lemma: plein
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: battre
+  lemma: battre
+A part-of-speech tag: DET:POS
+  token: son
+  lemma: son
+A part-of-speech tag: ADJ
+  token: plein
+  lemma: plein
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: battre
+  lemma: battre
+A part-of-speech tag: DET:POS
+  token: son
+  lemma: son
+A part-of-speech tag: ADJ
+  token: plein
+  lemma: plein
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: battre
+  lemma: battre
+A part-of-speech tag: DET:POS
+  token: son
+  lemma: son
+A part-of-speech tag: ADJ
+  token: plein
+  lemma: plein
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: battre
+  lemma: battre
+A part-of-speech tag: DET:POS
+  token: son
+  lemma: son
+A part-of-speech tag: ADJ
+  token: plein
+  lemma: plein
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: battre
+  lemma: battre
+A part-of-speech tag: DET:POS
+  token: son
+  lemma: son
+A part-of-speech tag: ADJ
+  token: plein
+  lemma: plein
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: battre
+  lemma: battre
+A part-of-speech tag: DET:POS
+  token: son
+  lemma: son
+A part-of-speech tag: ADJ
+  token: plein
+  lemma: plein
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: battre
+  lemma: battre
+A part-of-speech tag: DET:POS
+  token: son
+  lemma: son
+A part-of-speech tag: ADJ
+  token: plein
+  lemma: plein
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: battre
+  lemma: battre
+A part-of-speech tag: DET:POS
+  token: son
+  lemma: son
+A part-of-speech tag: ADJ
+  token: plein
+  lemma: plein
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: battre
+  lemma: battre
+A part-of-speech tag: DET:POS
+  token: son
+  lemma: son
+A part-of-speech tag: ADJ
+  token: plein
+  lemma: plein
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: battre
+  lemma: battre
+A part-of-speech tag: DET:POS
+  token: son
+  lemma: son
+A part-of-speech tag: ADJ
+  token: plein
+  lemma: plein
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: battre
+  lemma: battre
+A part-of-speech tag: DET:POS
+  token: son
+  lemma: son
+A part-of-speech tag: ADJ
+  token: plein
+  lemma: plein
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: battre
+  lemma: battre
+A part-of-speech tag: DET:POS
+  token: son
+  lemma: son
+A part-of-speech tag: ADJ
+  token: plein
+  lemma: plein
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: battre
+  lemma: battre
+A part-of-speech tag: DET:POS
+  token: son
+  lemma: son
+A part-of-speech tag: ADJ
+  token: plein
+  lemma: plein
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: battre
+  lemma: battre
+A part-of-speech tag: DET:POS
+  token: son
+  lemma: son
+A part-of-speech tag: ADJ
+  token: plein
+  lemma: plein
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: battre
+  lemma: battre
+A part-of-speech tag: DET:POS
+  token: son
+  lemma: son
+A part-of-speech tag: ADJ
+  token: plein
+  lemma: plein
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: battre
+  lemma: battre
+A part-of-speech tag: DET:POS
+  token: son
+  lemma: son
+A part-of-speech tag: ADJ
+  token: plein
+  lemma: plein
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: battre
+  lemma: battre
+A part-of-speech tag: DET:POS
+  token: son
+  lemma: son
+A part-of-speech tag: ADJ
+  token: plein
+  lemma: plein
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: battre
+  lemma: battre
+A part-of-speech tag: DET:POS
+  token: son
+  lemma: son
+A part-of-speech tag: ADJ
+  token: plein
+  lemma: plein
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: battre
+  lemma: battre
+A part-of-speech tag: DET:POS
+  token: son
+  lemma: son
+A part-of-speech tag: ADJ
+  token: plein
+  lemma: plein
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: battre
+  lemma: battre
+A part-of-speech tag: DET:POS
+  token: son
+  lemma: son
+A part-of-speech tag: ADJ
+  token: plein
+  lemma: plein
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: battre
+  lemma: battre
+A part-of-speech tag: DET:POS
+  token: son
+  lemma: son
+A part-of-speech tag: ADJ
+  token: plein
+  lemma: plein
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: battre
+  lemma: battre
+A part-of-speech tag: DET:POS
+  token: son
+  lemma: son
+A part-of-speech tag: ADJ
+  token: plein
+  lemma: plein
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: battre
+  lemma: battre
+A part-of-speech tag: DET:POS
+  token: son
+  lemma: son
+A part-of-speech tag: ADJ
+  token: plein
+  lemma: plein
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: battre
+  lemma: battre
+A part-of-speech tag: DET:POS
+  token: son
+  lemma: son
+A part-of-speech tag: ADJ
+  token: plein
+  lemma: plein
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: battre
+  lemma: battre
+A part-of-speech tag: DET:POS
+  token: son
+  lemma: son
+A part-of-speech tag: ADJ
+  token: plein
+  lemma: plein
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: battre
+  lemma: battre
+A part-of-speech tag: DET:POS
+  token: son
+  lemma: son
+A part-of-speech tag: ADJ
+  token: plein
+  lemma: plein
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: battre
+  lemma: battre
+A part-of-speech tag: DET:POS
+  token: son
+  lemma: son
+A part-of-speech tag: ADJ
+  token: plein
+  lemma: plein
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: battre
+  lemma: battre
+A part-of-speech tag: DET:POS
+  token: son
+  lemma: son
+A part-of-speech tag: ADJ
+  token: plein
+  lemma: plein
+A part-of-speech tag: PUN
+  token: ;
+  lemma: ;
+A part-of-speech tag: VER:infi
+  token: battre
+  lemma: battre

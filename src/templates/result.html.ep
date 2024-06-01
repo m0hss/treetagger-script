@@ -1,0 +1,163 @@
+<div class="row">
+  <div class="col-md-6">
+    <h1>Results</h1>
+    <table class="table table-bordered">
+      <thead>
+        <tr>
+          <th>Key</th>
+          <th>Value</th>
+        </tr>
+      </thead>
+      <tbody>
+        % my $has_results = 0;
+        % for my $key (keys %{ stash('result') }) {
+        % if (stash('result')->{$key} && stash('result')->{$key} ne '--') {
+        % $has_results = 1;
+        <tr>
+          <td>
+            <%= $key %>
+          </td>
+          <td>
+            <%= stash('result')->{$key} %>
+          </td>
+        </tr>
+        % }
+        % }
+        % if (!$has_results) {
+        <tr>
+          <td colspan="3">No results found.</td>
+        </tr>
+        % }
+      </tbody>
+    </table>
+  </div>
+  <div class="col-md-6">
+    <h1>Tagged Result</h1>
+    <table class="table table-bordered">
+      <thead>
+        <tr>
+          <th>Key</th>
+          <th>Sub Key</th>
+          <th>Value</th>
+        </tr>
+      </thead>
+      <tbody>
+        % for my $key (keys %{ stash('tagged_result') }) {
+        % my $def_val = stash('tagged_result')->{$key}->{'def'};
+        % if (defined $def_val) {
+        <tr>
+          <td>
+            <%= $key %>
+          </td>
+          <td>def</td>
+          <td>
+            <%= $def_val %>
+          </td>
+        </tr>
+        % }
+        % }
+        % if (!keys %{ stash('tagged_result') }) {
+        <tr>
+          <td colspan="3">No results found.</td>
+        </tr>
+        % }
+      </tbody>
+    </table>
+  </div>
+</div>
+
+<h2>Statistics</h2>
+<table class="table table-bordered">
+  <thead>
+    <tr>
+      <th>Statistic</th>
+      <th>Value</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Dictionary</td>
+      <td>
+        <%= stash('dic') %>
+      </td>
+    </tr>
+    <tr>
+      <td>Lines</td>
+      <td>
+        <%= stash('lines') %>
+      </td>
+    </tr>
+    <tr>
+      <td>Phrases</td>
+      <td>
+        <%= stash('duplications') %>
+      </td>
+    </tr>
+    <tr>
+      <td>Definitions Found</td>
+      <td>
+        <%= stash('found') %>
+      </td>
+    </tr>
+    <tr>
+      <td>Definitions Not Found</td>
+      <td>
+        <%= stash('not_found') %>
+      </td>
+    </tr>
+    <tr>
+      <td>Total</td>
+      <td>
+        <%= stash('total') %>
+      </td>
+    </tr>
+    <tr>
+      <td>Percent</td>
+      <td>
+        <%= sprintf("%.2f", stash('percent')) %>%
+      </td>
+    </tr>
+    <tr>
+      <td>Words</td>
+      <td>
+        <%= stash('word') %>
+      </td>
+    </tr>
+    <tr>
+      <td>Found with TreeTagger</td>
+      <td>
+        <%= stash('found_with_treetagger') %>
+      </td>
+    </tr>
+    <tr>
+      <td>Total with TreeTagger</td>
+      <td>
+        <%= stash('total_with_tretagger') %>
+      </td>
+    </tr>
+    <tr>
+      <td>CPT</td>
+      <td>
+        <%= sprintf("%.2f", stash('cpt')) %>
+      </td>
+    </tr>
+    <tr>
+      <td>CPT Percent</td>
+      <td>
+        <%= sprintf("%.6f", stash('cpt_percent')) %>%
+      </td>
+    </tr>
+    <tr>
+      <td>CPT Unique</td>
+      <td>
+        <%= sprintf("%.2f", stash('cpt_unique')) %>
+      </td>
+    </tr>
+    <tr>
+      <td>CPT Percent Unique</td>
+      <td>
+        <%= sprintf("%.6f", stash('cpt_percent_unique')) %>%
+      </td>
+    </tr>
+  </tbody>
+</table>
